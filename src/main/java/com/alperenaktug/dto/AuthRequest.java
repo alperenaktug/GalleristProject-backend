@@ -6,7 +6,7 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class AuthReguest {
+public class AuthRequest {
 
     @NotEmpty
     private String username;
